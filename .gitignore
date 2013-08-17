@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+workspace/.metadata
+workspace/SeleniumJmjs/.settings
+workspace/SeleniumJmjs/libpeerconnection.log
+workspace/SeleniumJmjs/bin
